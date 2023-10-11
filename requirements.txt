@@ -1,0 +1,10 @@
+pandas==2.1.1
+numpy==1.26.0
+streamlit==1.27.0
+hugchat==0.2.9
+streamlit-extras==0.0.1
+hugchat-api
+pyngrok==5.0.0
+pygwalker==0.3.7
+openpyxl==3.1.2
+ydata-profiling
