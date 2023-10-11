@@ -1,5 +1,5 @@
-pandas==2.1.1
-numpy==1.26.0
+pandas
+numpy
 streamlit==1.27.0
 hugchat==0.2.9
 streamlit-extras==0.0.1
