@@ -203,8 +203,8 @@ def main():
          💡 Note: No Sign-in or API key required!
          ''')
             
-        EMAIL = "jaga.m.gowda@gmail.com"
-        PASSWD = "Jagadeesha@9731"
+        EMAIL = st.secrets["DB_EMAIL"]
+        PASSWD = st.secrets["DB_PASS"]
         
         sign = Login(EMAIL,PASSWD)
         cookies = sign.login()
